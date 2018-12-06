@@ -8,15 +8,24 @@ Discord:
 - Disabled reactions on rules. 
 
 KitPvP: 
-- Removed bounty hunters. (Broken)
+- Removed bounty hunters. [Broken]
 - Removed permissions from /op for security purposes. [Bypassed the /stop prevention] 
 - Added a creative security plugin. [This will allow people to have a different inventory - allows them to still play]
-- Investigating issues with connections. 
+  + Disabled, broken plugin
+    + Will be adding a per gamemode inventories though. 
 - Resolved issues with tags. [Removed tags when making new ones] 
 - Updated an anti /pl plugin. [Wasn't configured]
 - Updated the essentials messages. [Double prefix = https://i.imgur.com/Ual9bYW.png & Wrong formatting = https://i.imgur.com/ml4fWwz.png]
   + Both have been resolved.
+- Installed and configured perworld inventories. 
+  + Changing plugins
+- Removed disguising [We don't want people messign around with it]w 
+- Removed respawn screen [Broken] 
+  + Installed new plugin
+    + Poll coming soon
 
 Global:
 - Implemented a freezing plugin. [Mods+]
 - Implemented a background command executer. [Means we can execute commands on a different server over bungee]
+- Starting on fixing an issue with connections.
+  + No error, so odd.
