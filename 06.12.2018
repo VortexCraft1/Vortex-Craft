@@ -1,8 +1,12 @@
 Discord:
 - Moved staff changelogs to GitHub.
 - Moved staff suggestions and bugs to GitHub.
-- Remove staff suggestions channel.
-- Removed staff changelog channel. 
+- Removed staff suggestions channel.
+- Removed staff changelog channel.
+- Removed change logs.
+- Added support channels. 
+- Removed other channels. 
+  + Some will be merged with 
 - Locked urgent channel until launch. 
 - Disabled reactions on announcements. 
 - Disabled reactions on rules. 
@@ -19,13 +23,16 @@ KitPvP:
   + Both have been resolved.
 - Installed and configured perworld inventories. 
   + Changing plugins
-- Removed disguising [We don't want people messign around with it]w 
+- Removed disguising [We don't want people messign around with it]
 - Removed respawn screen [Broken] 
-  + Installed new plugin
-    + Poll coming soon
+  + Installed new plugin [Works] 
+- Added a world management plugin
+  
 
 Global:
 - Implemented a freezing plugin. [Mods+]
 - Implemented a background command executer. [Means we can execute commands on a different server over bungee]
 - Starting on fixing an issue with connections.
   + No error, so odd.
+  + Patching failed. 
+    ~ Seem to be able to relog and it is fine. 
