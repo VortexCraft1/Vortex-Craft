@@ -14,3 +14,5 @@ KitPvP:
 - Investigating issues with connections. 
 - Resolved issues with tags [Removed tags when making new ones] 
 - Updated an anti /pl plugin [Wasn't configured]
+- Updated the essentials messages [Double prefix = https://i.imgur.com/Ual9bYW.png & Wrong formatting = https://i.imgur.com/ml4fWwz.png]
+  + Both have been resolved.
