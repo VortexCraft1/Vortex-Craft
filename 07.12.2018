@@ -1,0 +1,17 @@
+KitPvP:
+- Configured the essentials MOTD.
+- Configured the freezing plugin.
+- Disabled join messages.
+  + Other than for first joins. 
+- Disabled death messages.
+  + May be customised in the future. 
+- Disabled a few other messages. 
+- Disabled tabbing all commands
+  + Will look into whitelisting a few commands.
+- Completely removed OP
+- Resolved issue with no tab prefix for players. 
+  + Will need to test for nametag prefixes.
+- Change essentials messages
+  + No ERROR prefix was showing for no permissions
+- Issue found with instant respawn
+  + Doesn't appear to work in 1.13.
