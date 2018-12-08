@@ -6,6 +6,25 @@ KitPvP:
   + Old version for now 
 - Looking into further prevention
   + If management do commands wrong people may be able to do /op etc. 
-- Resolved issue where you would be kicked for spamming for no reason 
+- Resolved issue where you would be kicked for spamming for no reason.
+- Removed trading
+  + Could take items out of GUI 
   
+- Added renaming
+  + /rename
+- Added colour renaming in a anvil 
+- Added glowing
+  + /sr glow
+- Added lores
+  + Disabled as this will be a verification for legit items
+  + Such at coupons 
+- Added clearing lores and names
+  + /sr clear
+- Added copying and pasting lores and names
+  + /sr copy
+  + /sr paste
+  + Lores will be disable.
+- Special characters help for renaming
+  + /sr characters
+
   
