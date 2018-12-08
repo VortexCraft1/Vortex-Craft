@@ -6,5 +6,6 @@ KitPvP:
   + Old version for now 
 - Looking into further prevention
   + If management do commands wrong people may be able to do /op etc. 
+- Resolved issue where you would be kicked for spamming for no reason 
   
   
