@@ -4,5 +4,7 @@ KitPvP:
 - Finalised simple freeze
 - Added litebans 
   + Old version for now 
-- 
+- Looking into further prevention
+  + If management do commands wrong people may be able to do /op etc. 
+  
   
