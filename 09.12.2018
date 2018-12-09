@@ -8,3 +8,5 @@ KitPvP:
 - Limited renaming to 20 characters 
 - Reinstalled a scoreboard plugin
   + Removed it, remembered we're getting a different plugin to do this. 
+- Removed the Shop plugin
+- Added a new Shop plugin 
