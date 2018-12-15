@@ -1,0 +1,23 @@
+Overall:
+- Stopped development of KitPvP
+- Started plans for new servers.
+
+Hub: 
+- Uploaded LiteBans
+- Uploaded Vanish
+- Uploaded ChatColor
+- Uploaded Chat Control
+- Added the Hub world
+  + Credit to Vyptair and other builders
+- Added Jump Pads
+  + We needed the hub to add them previously 
+- Fixed the compass
+  + Removed unneeded servers 
+- Added auto mutes and bans [Beta] 
+  + We are testing the ban system 
+- Added a new join feature
+- Fixed the gadgets
+  + Wouldn't get given previously 
+- Applied patch for kicking due to spam
+  + People would put a space and get kicked
+- Disabled the pvp cooldown title for 1.8
