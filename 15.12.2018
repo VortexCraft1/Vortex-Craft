@@ -21,3 +21,6 @@ Hub:
 - Applied patch for kicking due to spam
   + People would put a space and get kicked
 - Disabled the pvp cooldown title for 1.8
+- Modified Chat Control
+  + Removed command similarities
+- Modified anti cheat
