@@ -1,0 +1,21 @@
+Hub: 
+- Removed dropping items
+
+SkyBlock:
+- Installed a new skyblock plugin
+- Started configuration of levels
+- Added leaderboards to spawn
+- Added a new working crates system
+  + We probably won't be using crazy crates in the future 
+  + Support stopped for 1.12. 
+- Configured some settings in the SkyBlock plugin 
+- Fixed ranks
+- Fixed issue with the double arrow in essentials 
+- Pushed prefix changes in essentials 
+  + I'll give the rest to TJ
+  + Line 226
+  
+~ Maintenance is still on due to major changes happening.   
+
+General:
+- Sorted through some suggestions 
