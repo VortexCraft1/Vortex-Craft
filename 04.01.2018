@@ -1,0 +1,47 @@
+Global:
+- Fixed issue where people would get muted from a system that isn't litebans.
+- Fixed where people could spam while muted and they would get mute for 5 minutes instead of original mute.
+- Fixed issue where people would not be able to do /unmute. 
+- Fixed issue where people you could not do /gc. #Global Chat 
+- Added /ff for admins+ 
+- Added /msg
+- Redone whole chat channel
+  + Now has:
+    ~ Global Chat
+    ~ Donator Chat
+    ~ Staff Chat
+    ~ Management Chat
+    ~ Announcements 
+- Added HelpOP 
+  + Goes Across Bungee
+- Started work on /help pages
+  + Will be rolled out once completed.
+  + We have them ready, just need adding into code.
+  + Thanks Alvin <3!
+
+Hub:
+- Added a scoreboard
+- Updated Vanish 
+- Added Build prevention methods
+  + Need to do a certain command to build
+- Disabled weather
+- Disabled time 
+
+SkyBlock:
+- Fixed the /shop plugin
+  + Came up with a visualisation diagram for it 
+- Fix issue relating to no permissions to:
+  + /ce
+  + /ah sell
+  + /ah bid
+  + /spawnershop
+  + /shop
+  + Some essentials commands
+- Fixed issues relating to vanish
+- Added /nv #Night Vision
+- Tested some slot machine plugins
+  + None worked
+- Installed VIP Slots for donators
+  + Allows people to connect when server is full.
+- Installed the pets plugin
+  + No pets added YET
